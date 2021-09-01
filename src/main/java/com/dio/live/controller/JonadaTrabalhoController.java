@@ -1,6 +1,6 @@
 package com.dio.live.controller;
 
-import com.dio.live.Service.JornadaService;
+import com.dio.live.service.JornadaService;
 import com.dio.live.model.JornadaTrabalho;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.dio.live.Repository;
+package com.dio.live.repository;
 
 import com.dio.live.model.JornadaTrabalho;
 import org.springframework.data.jpa.repository.JpaRepository;

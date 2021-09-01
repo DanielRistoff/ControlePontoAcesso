@@ -1,6 +1,6 @@
-package com.dio.live.Service;
+package com.dio.live.service;
 
-import com.dio.live.Repository.JornadaRepository;
+import com.dio.live.repository.JornadaRepository;
 import com.dio.live.model.JornadaTrabalho;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
